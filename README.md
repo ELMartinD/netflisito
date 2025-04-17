@@ -1,1 +1,1 @@
-DEMO: neflisito.netlify.app
+DEMO: https://neflisito.netlify.app
